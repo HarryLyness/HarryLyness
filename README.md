@@ -2,7 +2,7 @@
 
 I'm working towards a Masters Degree in Mathematics. 
 
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![Python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![RStudio](https://img.shields.io/static/v1?logo=RStudio&label=&message=RStudio&color=36465D&logoColor=AAA&style=flat-square&link=)
 
