@@ -4,7 +4,7 @@ I'm working towards a Masters Degree in Mathematics.
 
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
-![RStudio](https://img.shields.io/static/v1?logo=RStudio&label=&message=RStudio&color=36465D&logoColor=AAA&style=flat-square&link=)
+![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 ## Non-Academic Projects Uploaded 
 
