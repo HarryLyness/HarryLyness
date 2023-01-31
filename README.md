@@ -13,6 +13,8 @@ I'm working towards a Masters Degree in Mathematics.
 
 ## Academic Projects
 
+- Permutation Cipher 2021: https://github.com/HarryLyness/Permulation-Cipher-2021-
+
 [Work in progress]
 
 <!--
