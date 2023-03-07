@@ -14,6 +14,8 @@ I'm working towards a Masters Degree in Mathematics.
 ## Academic Projects
 
 - Permutation Cipher 2021: https://github.com/HarryLyness/Permulation-Cipher-2021-
+- Data Science Coursework 1: https://github.com/HarryLyness/Data-Science-Coursework-1
+- Data Science Coursework 2: https://github.com/HarryLyness/Data-Science-Coursework-2
 
 [Work in progress]
 
