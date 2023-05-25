@@ -2,10 +2,6 @@
 
 I'm working towards a Masters Degree in Mathematics. 
 
-![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
-![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
-![FORTRAN](https://img.shields.io/static/v1?logo=FORTRAN&label=&message=FORTRAN&color=36465D&logoColor=AAA&style=flat-square&link=)
 ## Academic Projects
 - Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92% 2nd in class https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods ![FORTRAN](https://img.shields.io/static/v1?logo=FORTRAN&label=&message=FORTRAN&color=36465D&logoColor=AAA&style=flat-square&link=)
 - 2022 Semester 1: Data Science Coursework 2 (84%): https://github.com/HarryLyness/Data-Science-Coursework-2 ![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
@@ -21,10 +17,16 @@ I'm working towards a Masters Degree in Mathematics.
  https://github.com/HarryLyness/Linear-Modelling-Friends-Sitcom ![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 [Work in progress]
+# Coding Languages and Packages
 
-PYTHON: numpy, pandas, matplotlib, scipy (linkage, dendrogram, fcluster, fminbound, Voronoi, voronoi_plot_2d), sklearn (Kmeans, tree, KNeighborsClassifier, datasets, TfidfVectorizer)
-R: tidyverse (ggplot2, dyplr, tidyr, readr, purr, tibble, stringr, forcats), broom, patchwork, lubridate, gridExtra, effects, tidytext, worldcloud, widyr, sf, ggmap, spatstat, sp, gstat, maptools, spdep, quantmod
-FORTRAN90: blas, lapack, mpi
+![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
+![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
+![FORTRAN](https://img.shields.io/static/v1?logo=FORTRAN&label=&message=FORTRAN&color=36465D&logoColor=AAA&style=flat-square&link=)
+
+- PYTHON: numpy, pandas, matplotlib, scipy (linkage, dendrogram, fcluster, fminbound, Voronoi, voronoi_plot_2d), sklearn (Kmeans, tree, KNeighborsClassifier, datasets, TfidfVectorizer)
+- R: tidyverse (ggplot2, dyplr, tidyr, readr, purr, tibble, stringr, forcats), broom, patchwork, lubridate, gridExtra, effects, tidytext, worldcloud, widyr, sf, ggmap, spatstat, sp, gstat, maptools, spdep, quantmod\\
+- FORTRAN90: blas, lapack, mpi
 
 <!--
 **HarryLyness/HarryLyness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
