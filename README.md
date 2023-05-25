@@ -2,7 +2,7 @@
 
 I'm working towards a Masters Degree in Mathematics. 
 
-## Academic Projects Uploaded
+## Public Academic Projects 
 - Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92% 2nd in class https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods ![FORTRAN](https://img.shields.io/static/v1?logo=FORTRAN&label=&message=FORTRAN&color=36465D&logoColor=AAA&style=flat-square&link=)
 - 2022 Semester 1: Data Science Coursework 2 (84%): https://github.com/HarryLyness/Data-Science-Coursework-2 ![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
 - 2022 Semester 1, Masters Level Course: Numerical Solution to Evolutionary Equations Coursework (92%): https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework ![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
@@ -11,7 +11,7 @@ I'm working towards a Masters Degree in Mathematics.
 
 [Work in progress]
 
-## Non-Academic Projects Uploaded 
+## Public Non-Academic Projects  
 
  - Summer 2022: Mini project which involved using Linear Modelling to show that Friends is a remarkable TV Show\Sitcom. 
  https://github.com/HarryLyness/Linear-Modelling-Friends-Sitcom ![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
