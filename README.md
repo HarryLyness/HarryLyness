@@ -2,7 +2,7 @@
 
 I'm working towards a Masters Degree in Mathematics. 
 
-## Academic Projects
+## Academic Projects Uploaded
 - Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92% 2nd in class https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods ![FORTRAN](https://img.shields.io/static/v1?logo=FORTRAN&label=&message=FORTRAN&color=36465D&logoColor=AAA&style=flat-square&link=)
 - 2022 Semester 1: Data Science Coursework 2 (84%): https://github.com/HarryLyness/Data-Science-Coursework-2 ![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
 - 2022 Semester 1, Masters Level Course: Numerical Solution to Evolutionary Equations Coursework (92%): https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework ![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
@@ -17,7 +17,8 @@ I'm working towards a Masters Degree in Mathematics.
  https://github.com/HarryLyness/Linear-Modelling-Friends-Sitcom ![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 [Work in progress]
-# Coding Languages and Packages
+
+## Coding Languages and Packages
 
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
