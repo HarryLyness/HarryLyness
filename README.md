@@ -1,8 +1,9 @@
 # Hi, I'm Harry 👋 
 
-I'm working towards a Masters Degree in Mathematics.
+I'm working towards a Masters Degree in Mathematics. Particular areas of interests include numerical optimisation, machine learning and data science. 
 
 ## Public Academic Projects 
+- Y3 S2: Numerical optimisation CW: Masters 90% https://github.com/HarryLyness/Numerical-Optimisation- ![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
 - Y3 S2: Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88% https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
 - Y3 S2: Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92%, 2nd/20, https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods ![FORTRAN](https://img.shields.io/static/v1?logo=FORTRAN&label=&message=FORTRAN&color=36465D&logoColor=AAA&style=flat-square&link=)
 - Y3 S1: Data Science CW2 (84%): https://github.com/HarryLyness/Data-Science-Coursework-2 ![RStudio](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square&link=)
