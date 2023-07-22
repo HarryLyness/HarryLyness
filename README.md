@@ -1,8 +1,23 @@
-# Hi, I'm Harry 👋 
+<p align="center">
+ <img src="Make your README.png">
+</p>
 
-I'm working towards a Masters Degree in Mathematics. Particular areas of interests include numerical optimisation, machine learning and data science. 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![VBA](https://img.shields.io/static/v1?logo=VBA&label=&message=VBA&color=36465D&logoColor=AAA&style=flat-square&link=)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/harry-lyness/
 ## Public Academic Projects
 ### Python 
 - Y3 S2: Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88% https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion 
@@ -27,26 +42,11 @@ I'm working towards a Masters Degree in Mathematics. Particular areas of interes
 
 ## Coding Languages and Packages
 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/static/v1?logo=MATLAB&label=&message=MATLAB&color=36465D&logoColor=AAA&style=flat-square&link=)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-![VBA](https://img.shields.io/static/v1?logo=VBA&label=&message=VBA&color=36465D&logoColor=AAA&style=flat-square&link=)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 - PYTHON: numpy, pandas, matplotlib, scipy (linkage, dendrogram, fcluster, fminbound, Voronoi, voronoi_plot_2d), sklearn (Kmeans, tree, KNeighborsClassifier, datasets, TfidfVectorizer)
 - R: tidyverse (ggplot2, dyplr, tidyr, readr, purr, tibble, stringr, forcats), broom, patchwork, lubridate, gridExtra, effects, tidytext, worldcloud, widyr, sf, ggmap, spatstat, sp, gstat, maptools, spdep, quantmod\\
 - FORTRAN90: blas, lapack, mpi
 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/harry-lyness/
 <!--
 asdlkmalskdm
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
@@ -68,4 +68,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Hi, I'm Harry 👋
+I'm working towards a Masters Degree in Mathematics. Particular areas of interests include numerical optimisation, machine learning and data science. 
 -->
