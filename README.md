@@ -22,29 +22,25 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
-## Public Academic Projects
+## Public Academic Projects [Work in progress]
 ### Python 
 - Y3 S2: Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88% https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion 
 ### MATLAB 
 - Y3 S2: Numerical optimisation CW: Masters 90% https://github.com/HarryLyness/Numerical-Optimisation- 
-- Y3 S1: Numerical Solution to Evolutionary Equations CW: Masters (92%) https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework !
+- Y3 S1: Numerical Solution to Evolutionary Equations CW: Masters (92%) https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework 
 - Y1 S2: Permutation Cipher (80%): https://github.com/HarryLyness/Permutation-Cipher-2021- 
 ### R 
-- Y3 S1: Data Science CW2 (84%): https://github.com/HarryLyness/Data-Science-Coursework-2 
-- Y3 S1: Data Science CW1 (76%): https://github.com/HarryLyness/Data-Science-Coursework-1 
+- Y3 S1: Analysing Literature, Pollution and Crime Data (Data Science CW2) (84%): https://github.com/HarryLyness/Data-Science-Coursework-2 
+- Y3 S1: Analysing Orchids, Hospital and Ambulance Data (Data Science CW1) (76%): https://github.com/HarryLyness/Data-Science-Coursework-1 
 ### FORTRAN 90/95  
 - Y3 S2: Parallel Nonlinear thermal Conduction: Masters, 83% https://github.com/HarryLyness/MPI-FORTRAN-90-Nonlinear-Thermal-Conduction
 - Y3 S2: Nonlinear-Thermal-Conduction (Scientific Computing): Masters, 92%, 2nd/20, https://github.com/HarryLyness/-Nonlinear-Thermal-Conduction-Quasi--Newton-Methods
-- 
-[Work in progress]
 
-## Public Non-Academic Projects  
+## Public Non-Academic Projects [Work in progress]
 
  - (Y2-Y3) Summer 2022: Mini project which involved using Linear Modelling to show that Friends is a remarkable TV Show\Sitcom. NOTE: Completed after taking Statistics 2B and reading 'Linear Models with R - Julian J.Faraway'. https://github.com/HarryLyness/Linear-Modelling-Friends-Sitcom 
 
-[Work in progress]
-
-## Coding Languages and Packages
+## Packages...
 
 - PYTHON: numpy, pandas, matplotlib, scipy (linkage, dendrogram, fcluster, fminbound, Voronoi, voronoi_plot_2d), sklearn (Kmeans, tree, KNeighborsClassifier, datasets, TfidfVectorizer)
 - R: tidyverse (ggplot2, dyplr, tidyr, readr, purr, tibble, stringr, forcats), broom, patchwork, lubridate, gridExtra, effects, tidytext, worldcloud, widyr, sf, ggmap, spatstat, sp, gstat, maptools, spdep, quantmod\\
