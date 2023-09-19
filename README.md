@@ -46,7 +46,17 @@
 - R: tidyverse (ggplot2, dyplr, tidyr, readr, purr, tibble, stringr, forcats), broom, patchwork, lubridate, gridExtra, effects, tidytext, worldcloud, widyr, sf, ggmap, spatstat, sp, gstat, maptools, spdep, quantmod\\
 - FORTRAN90: blas, lapack, mpi
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/harry-lyness/
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/harry-lyness/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLyness&hide_progress=true) -->
+
+
 <!--
 asdlkmalskdm
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
@@ -71,4 +81,12 @@ Here are some ideas to get you started:
 
 # Hi, I'm Harry 👋
 I'm working towards a Masters Degree in Mathematics. Particular areas of interests include numerical optimisation, machine learning and data science. 
+
+https://github.com/anuraghazra/github-readme-stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLyness&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryLyness&hide=html)
+![](https://komarev.com/ghpvc/?username=HarryLyness&color=blue)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/harry-lyness/
 -->
