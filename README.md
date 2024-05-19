@@ -24,12 +24,16 @@
 
 ## Public Academic Projects [Work in progress]
 ### Python 
+- Y4 S1: Machine learning 2 CW (Classification Network on the Iris Dataset): 92.5% https://github.com/HarryLyness/Machine-Learning-2-CW 
 - Y3 S2: Machine Learning CW (Stochastic-Optimisation-for-Matrix-Completion): 88% https://github.com/HarryLyness/ML1-Stochastic-Optimisation-for-Matrix-Completion 
 ### MATLAB 
 - Y3 S2: Numerical optimisation CW: Masters 90% https://github.com/HarryLyness/Numerical-Optimisation- 
 - Y3 S1: Numerical Solution to Evolutionary Equations CW: Masters (92%) https://github.com/HarryLyness/Numerical-Solution-to-Evolutionary-Equations-Coursework 
 - Y1 S2: Permutation Cipher (80%): https://github.com/HarryLyness/Permutation-Cipher-2021- 
 ### R 
+- Y4 S2: Time Series CW: 92% https://github.com/HarryLyness/Time-series-coursework
+- Y4 S2: Optimizing-Public-Policy-Planning-using-Data-Analysis (Applied Data Science CW1): 80% https://github.com/HarryLyness/Optimizing-Public-Policy-Planning-using-Data-Analysis 
+- Y4 S1: Applied Statistical Inference CW: Masters 83% https://github.com/HarryLyness/Applied-Statistical-Inference 
 - Y3 S1: Analysing Literature, Pollution and Crime Data (Data Science CW2) (84%): https://github.com/HarryLyness/Data-Science-Coursework-2 
 - Y3 S1: Analysing Orchids, Hospital and Ambulance Data (Data Science CW1) (76%): https://github.com/HarryLyness/Data-Science-Coursework-1 
 ### FORTRAN 90/95  
